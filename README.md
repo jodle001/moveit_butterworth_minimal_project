@@ -36,5 +36,5 @@ Summary: 0 packages finished [1.16s]
     * `docker build --no-cache -f test.Dockerfile -t ros2:test . `
 4. Open prject root in VSCode
 5. Open command pallet (ctrl+shift+p)
-6. Select `Rebuild Container`
+6. Select `Reopen in Container`
 7. Using the terminal now running the docker container inside VSCode, build the project with `colcon build`

@@ -1,5 +1,5 @@
 {
 	"name": "Default Linux Universal",
-    "image": "ros2:Dtest",
+    "image": "ros2:test",
 	"runArgs": ["--env=DISPLAY=${env:DISPLAY}"]
 }
